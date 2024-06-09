@@ -11,6 +11,7 @@ https://github.com/alisouzr/rpa-insert-data-web/assets/79667413/fc303380-7f77-4d
 
 <hr>
 Automation takes almost the same amount of time to register 20 products in this video.<br>
+<br>
 
 https://github.com/alisouzr/rpa-insert-data-web/assets/79667413/6bc8b7c7-569e-42db-a67d-ee5f02c8cc63
 
