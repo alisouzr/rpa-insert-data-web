@@ -6,11 +6,11 @@ This type of automation can elevate your business potential and improve throughp
 
 in this video, with the task being performed by a human, only 2 products were registered and took a little more than 1 minute
 
-![](video/by-human.mkv)
+![](videos/by-human.mkv)
 
 Automation takes almost the same amount of time to register 20 products in this video.
 
-![](video/by-rpa.mkv)
+![](videos/by-rpa.mkv)
 
 ## Now can you see the importance?
 Contact me for more information
